@@ -1,1 +1,1 @@
-# ArcheryV6
+# Project Template 26
